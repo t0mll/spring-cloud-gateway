@@ -24,5 +24,3 @@ include::https://raw.githubusercontent.com/spring-cloud/spring-cloud-build/main/
 
 [[contributing]]
 = Contributing
-
-include::https://raw.githubusercontent.com/spring-cloud/spring-cloud-build/main/docs/modules/ROOT/partials/contributing.adoc[]
